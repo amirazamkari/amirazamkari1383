@@ -1,4 +1,4 @@
-# G2Ray
+.# G2Ray
 
 > Only works in places where you can open GitHub Codespaces
 
